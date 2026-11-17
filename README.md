@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://hu09cn.github.io/PREVIS.3D/"><strong>🌐 在线体验 Demo 试玩 (Live Demo)</strong></a>
+  <a href="http://144.48.241.164:8088" target="_blank"><strong>🌐 在线体验 Demo 试玩 (Live Demo: 144.48.241.164:8088)</strong></a>
+  <br />
+  <sub>🔑 访问账号：<code>demo</code> &nbsp;|&nbsp; 访问密码：<code>h123zb</code></sub>
 </p>
 
 <p align="center">
