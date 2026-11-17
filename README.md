@@ -4,12 +4,22 @@
 >
 > 专为解决 AI 生视频（Sora / Kling / Runway / CogVideoX / Wan 2.1 / SVD）的**「空间抽卡、结构融化、运镜不准、一景无法多拍」**等核心痛点而设计的 Web 3D 预演与空间约束工作台。
 
-[![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://react.dev/)
-[![Three.js](https://img.shields.io/badge/Three.js-r170-black.svg)](https://threejs.org/)
-[![Vite](https://img.shields.io/badge/Vite-6.0-646CFF.svg)](https://vitejs.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6.svg)](https://www.typescriptlang.org/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38B2AC.svg)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<p align="center">
+  <img src="docs/demo.gif" alt="AI 3D Previs Studio Demo" width="100%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+</p>
+
+<p align="center">
+  <a href="https://hu09cn.github.io/PREVIS.3D/"><strong>🌐 在线体验 Demo 试玩 (Live Demo)</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-18.3.1-blue.svg" alt="React" /></a>
+  <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-r170-black.svg" alt="Three.js" /></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-6.0-646CFF.svg" alt="Vite" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.6-3178C6.svg" alt="TypeScript" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-v4-38B2AC.svg" alt="TailwindCSS" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+</p>
 
 ---
 
@@ -23,7 +33,7 @@
 > **「世界只需建造一次，即可无限机位拍摄」**
 >
 > 先在 3D 空间中精确搭建白模、编辑地形与编排运镜轨迹，直接导出 **Clay白模视频**、**Linear Depth 深度序列**、**Surface Normal 法线图** 与 **相机轨迹参数**，作为 ControlNet / Video Diffusion 模型的强几何先验条件，实现 100% 稳定的高质量电影级 AI 视频输出。
-
+Preview unavailable
 ---
 
 ## ✨ 核心特性
